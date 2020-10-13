@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="enter_num">数字を入力</string>
+    <string name="cal_tap">計算方法をタップ！</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="textview">Text</string>
+</resources>
